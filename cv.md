@@ -30,4 +30,4 @@ My education
 
 My english
 
-    My level english language is С2
+    My level english language is С
